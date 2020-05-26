@@ -1,0 +1,35 @@
+{
+  "name": "ac_villager_reference",
+  "version": "1.0.0",
+  "description": "A bot for looking up information about villagers in Animal Crossing: New Horizons. Contains commands for looking up info about 1 or more villagers' birthdays, catchphrases, species, and personality types. You can also request an image of one villager, or a villagers bio (includes all info and picture). Made with help from acnhapi.com.",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "express": "^4.17.1",
+    "mysportsfeeds-node": "^2.0.1",
+    "npm": "^6.14.5",
+    "uws": "^100.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gillemic/AC_Villager_Bot.git"
+  },
+  "keywords": [
+    "AC",
+    "Animal",
+    "Crossing",
+    "New",
+    "Horizons",
+    "bot"
+  ],
+  "author": "Michael Gillett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gillemic/AC_Villager_Bot/issues"
+  },
+  "homepage": "https://github.com/gillemic/AC_Villager_Bot#readme"
+}
