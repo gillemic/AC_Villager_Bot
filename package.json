@@ -5,7 +5,7 @@
   "main": "bot.js",
   "dependencies": {
     "discord.js": "^11.3.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mysportsfeeds-node": "^2.0.1",
     "npm": "^6.14.6",
     "uws": "^100.0.1"
